@@ -12,7 +12,7 @@ import re
 # 不推荐使用Python IDLE运行（执行输出会乱码）
 # 如果使用CMD/PowerShell运行过程中，"卡"住，请多敲几下回车即可
 
-cookie_xsid = ''
+cookie_xsid = 'td_cookie=1872195228; Hm_lvt_deeb6849ac84929e8ae01644f8d27145=1636814477,1638193984,1638281971,1639194606; xsid=2D4D25F4CF8FA79C; player=1; Hm_lpvt_deeb6849ac84929e8ae01644f8d27145=1639194624'
 
 ########################################################
 
